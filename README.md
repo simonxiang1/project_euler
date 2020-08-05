@@ -1,4 +1,4 @@
-## My Project Euler Solutions
+# My Project Euler Solutions
 
 I'm using this repository to get better at shell scripting while simultaneously doing fun math problems! Currently I write my solutions in POSIX compliant shell scripts (think bash, zsh, ksh) but I might rewrite old solutions in C if I find the motivation.
 
