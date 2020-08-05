@@ -8,7 +8,7 @@ echo "Boring solution: $prime_factor"
 #runs instantly: the factor command probably uses a database of some sort
 
 #slow solution but we actually did something
-#runs in O(n^2) (polynomial time) I think
+#runs in O(sqrt(n)) time
 prime_number=600851475143
 length=$(bc <<< "scale=0; sqrt($prime_number)")
 largest_prime=0
