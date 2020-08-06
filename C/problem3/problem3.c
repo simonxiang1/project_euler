@@ -1,4 +1,4 @@
-/* Problem 2 */
+/* Problem 3 */
 /* Variable definitions are in the config.h file */
 /* Compile with gcc problem3.c -lm on a unix based system */
 #include <stdio.h>
