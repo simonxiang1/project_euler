@@ -1,4 +1,4 @@
-/* Problem 2 */
+/* Problem 2, even fibonacci sum */
 /* Variable definitions are in the config.h file */
 #include <stdio.h>
 #include "config.h"
