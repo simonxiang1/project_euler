@@ -1,4 +1,4 @@
-/* Project Euler problem 1 in C! */
+/* Problem 2 */
 /* Variable definitions are in the config.h file */
 #include <stdio.h>
 #include "config.h"
